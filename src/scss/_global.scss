@@ -12,11 +12,8 @@ body {
 }
 
 h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+h2
+{
     text-transform: uppercase;
 }
 
@@ -31,7 +28,7 @@ p.lead {
 
 .subheading {
     font-family: $headings-font-family;
-    text-transform: uppercase;
+    //text-transform: uppercase;
     font-weight: 500;
     font-size: 1.5rem;
 }
